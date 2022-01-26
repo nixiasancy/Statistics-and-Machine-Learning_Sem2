@@ -6,19 +6,19 @@
 
 ### 1) It is a regression problem
 ### 2) We are more interested in inference since we would like to know the factors which affect rather than predicting the CEO's salary
-### 3)
+### 3) n = 500, p = 3
 
 ######## b) Success or Failure of product
 
 ### 1) It is a classification problem
 ### 2) We are interested in prediction to know if our product would succeed or fail
-### 3)
+### 3) n = 20, p = 13
 
 ######## c) % change in USD/Euro exchange
 
 ### 1) It is a regression problem
 ### 2) Interested in prediction
-### 3)
+### 3)n = 52,p = 3
 
 #################### Exercise 10 ############################
 # a)
